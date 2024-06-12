@@ -33,11 +33,13 @@
 •	Leveraged Gradient Boosting, Regression models, and PowerBI to analyze trained models and generate insights.<be>
 
 ## Education
-**Masters of Computer Science – Applied Artificial Intelligence (completed)**	September 2022 – April 2024 <br>
+**Masters of Computer Science – Applied Artificial Intelligence (completed)**	<br>
+September 2022 – April 2024 <br>
 *University of Ottawa* | Ottawa, Ontario, Canada	GPA: 3.94/4.00 <br>
 Teaching Assistant: Python Programming, Java Programming, and Cybersecurity <br> <br>
-**Bachelor of Technology in Computer Science and Engineering**	August 2017 – June 2021 <br>
-*Punjabi University* | Punjab, India	GPA: 9.05/10.00<br>
+**Bachelor of Technology in Computer Science and Engineering** <br>
+August 2017 – June 2021 <br>
+*Punjabi University* | Punjab, India	GPA: 9.05/10.00 <br>
 
 
 
