@@ -1,3 +1,4 @@
+# Karanjot Singh Saggu
 ## Technical Skills
 **Programming Languages**: Python | JavaScript | Java <br>
 **Artificial Intelligence**: Natural Language Processing (NLP) | Computer Vision (CV) | Recommender Systems | Graph Neural Networks <br>
