@@ -1,4 +1,3 @@
-# Karanjot Singh Saggu
 ## Technical Skills
 **Programming Languages**: Python | JavaScript | Java <br>
 **Artificial Intelligence**: Natural Language Processing (NLP) | Computer Vision (CV) | Recommender Systems | Graph Neural Networks <br>
@@ -29,9 +28,17 @@
 
 **Data Scientist Intern** 	(January 2021 – June 2021)<br>
 *Sabudh Foundation* | Delhi, India<br>
-•	Crafted a News Recommendation engine based on Neural Network collaborative filtering, spaCy Named Entity Recognition (NER) and statistical modeling fetching data from a custom-build news crawler API reaching user satisfaction of 88%.<br>
+•	Crafted a News Recommendation engine based on Neural Network collaborative filtering, spaCy Named Entity Recognition (NER), and statistical modeling fetching data from a custom-build news crawler API reaching user satisfaction of 88%.<br>
 •	Employed Selenium-based crawler to scrape information and Pandas to analyze news and song lyrics from public websites.<br>
-•	Leveraged Gradient Boosting, Regression models, and PowerBI to analyze trained models and generate insights.<br>
+•	Leveraged Gradient Boosting, Regression models, and PowerBI to analyze trained models and generate insights.<be>
+
+## Education
+**Masters of Computer Science – Applied Artificial Intelligence (completed)**	September 2022 – April 2024
+*University of Ottawa* | Ottawa, Ontario, Canada	GPA: 3.94/4.00 <br>
+Teaching Assistant: Python Programming, Java Programming, and Cybersecurity <br> <br>
+**Bachelors of Technology in Computer Science and Engineering**	August 2017 – June 2021
+*Punjabi University* | Punjab, India	GPA: 9.05/10.00
+
 
 
 
